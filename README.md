@@ -25,19 +25,19 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/ComBeat/Projects#numbers)
+- [Classic Algorithms](https://github.com/ComBeat/Projects#classic-algorithms)
+- [Graph](https://github.com/ComBeat/Projects#graph)
+- [Data Structures](https://github.com/ComBeat/Projects#data-structures)
+- [Text](https://github.com/ComBeat/Projects#text)
+- [Networking](https://github.com/ComBeat/Projects#networking)
+- [Classes](https://github.com/ComBeat/Projects#classes)
+- [Threading](https://github.com/ComBeat/Projects#threading)
+- [Web](https://github.com/ComBeat/Projects#web)
+- [Files](https://github.com/ComBeat/Projects#files)
+- [Databases](https://github.com/ComBeat/Projects#databases)
+- [Graphics and Multimedia](https://github.com/ComBeat/Projects#graphics-and-multimedia)
+- [Security](https://github.com/ComBeat/Projects#security)
 
 Numbers
 ---------
